@@ -1,0 +1,20 @@
+{
+  "name": "nodejs_blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-edge": "^1.0.0",
+    "mongoose": "^5.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
